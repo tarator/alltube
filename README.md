@@ -3,7 +3,7 @@
 [![Donate using Liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/Rudloff/donate)
 
 HTML GUI for youtube-dl ([alltubedownload.net](http://alltubedownload.net/))
-
+Alternative URL (HTTPS Connection=: [alltube.projecttac.com](https://alltube.projecttac.com/)
 ![Screenshot](img/screenshot.png "AllTube GUI screenshot")
 
 ## Setup
